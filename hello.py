@@ -12,3 +12,4 @@ def say(word: MyClass):
 
 say(MyClass("Hello"))
 say(MyClass(12))
+say(MyClass("Another"))
